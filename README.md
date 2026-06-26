@@ -2,7 +2,7 @@
 
 Welcome to my **DSA-Java** repository!
 
-This repository contains my **Java solutions to Data Structures and Algorithms (DSA) problems**, primarily solved on **LeetCode** as part of my coding interview preparation.
+This repository contains my **Java solutions to Data Structures and Algorithms (DSA) problems**, primarily solved on **LeetCode** as part of my coding journey.
 
 ## 📌 About
 
@@ -28,7 +28,6 @@ The purpose of this repository is to:
 * Graphs (BFS & DFS)
 * Recursion & Backtracking
 * Sliding Window
-More topics and solutions will be added Consitently.
 
 ## 💻 Language
 
@@ -38,4 +37,10 @@ More topics and solutions will be added Consitently.
 
 To build a well-organized collection of DSA solutions while consistently improving my coding and mastering DSA.
 
-⭐ If you find this repository helpful, let's do it with me and feel free to star it!
+⭐ One star today, one step closer to becoming a better developer tomorrow. If you enjoyed this repository, don't forget to leave a ⭐.
+---
+
+## 👨‍💻 Prepared By
+
+**Sanjay Kumar Peddaboina**
+
