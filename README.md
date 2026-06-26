@@ -35,7 +35,7 @@ The purpose of this repository is to:
 
 ## 🎯 Goal
 
-To build a well-organized collection of DSA solutions while consistently improving my coding and mastering DSA.
+To document my journey of mastering Data Structures and Algorithms, continuously improve my problem-solving skills, and create a resource that inspires and supports fellow learners.
 
 ⭐ One star today, one step closer to becoming a better developer tomorrow. If you enjoyed this repository, don't forget to leave a ⭐.
 ---
