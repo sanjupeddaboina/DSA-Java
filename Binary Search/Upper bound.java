@@ -1,14 +1,14 @@
 import java.util.*;
 
-class LowerBoundFinder {
-    public int lowerBound(int[] arr, int x) {
+class UpperBoundFinder {
+    public int UpperBound(int[] arr, int x) {
         int low = 0;
         int high = arr.length - 1;
         int ans = arr.length;
 
         while (low <= high) {
             int mid = (low + high) / 2;
-            if (arr[mid] >= x) {
+            if (arr[mid] > x) {
                 ans = mid;            
                 high = mid - 1;
             } else {
