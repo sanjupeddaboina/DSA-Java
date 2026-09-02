@@ -1,6 +1,8 @@
-/* Online stock span: Given an array of integers arr, there is a sliding window of size k which is moving from the 
-very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves 
-right by one position. Return the max sliding window..
+/* Online stock span: Given an array arr of size n, where each element arr[i] represents the stock price on day i. 
+Calculate the span of stock prices for each day.
+
+The span Sᵢ for a specific day i is defined as the maximum number of consecutive previous days (including the current day)
+for which the stock price was less than or equal to the price on day i.
 */
 
 class StockSpanner {
